@@ -1,0 +1,7 @@
+PS C:\Users\jeffe\OneDrive\Documentos\tudo-de-programacao\GitHub\git-basics-vscode\src\exercises> git commit -m "commit exercise-02"
+[main 6349ff8] commit exercise-02
+ 1 file changed, 1 insertion(+)
+ create mode 100644 src/exercises/exercise-01.txt
+PS C:\Users\jeffe\OneDrive\Documentos\tudo-de-programacao\GitHub\git-basics-vscode\src\exercises> npm run validate-exercise-02                              
+
+> git-basics-vscode-pill@1.0.0 validate-exercise-02

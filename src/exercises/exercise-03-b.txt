@@ -1,0 +1,6 @@
+PS C:\Users\jeffe\OneDrive\Documentos\tudo-de-programacao\GitHub\git-basics-vscode\src\exercises> npm run validate-exercise-01
+
+> git-basics-vscode-pill@1.0.0 validate-exercise-01
+> jest -t exercise-01
+
+ PASS  src/__tests__/exercise-01.test.js
